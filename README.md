@@ -1,2 +1,2 @@
 # LeetCode
-This is readme markdown file for my LeetCode program.
+# This is readme markdown file for my LeetCode program.
